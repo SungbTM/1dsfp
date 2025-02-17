@@ -1,0 +1,14 @@
+<php>
+    //declarar variaveis para base e altura para pegar os valores//
+    $base = $_GET['base'];
+    $altura = $_GET['altura']
+    //calcula a area
+    $area = $base * $altura    //(base vezes altura)//
+    //exibir a area do retangulo
+    echo '<h1>Área: '.$area.'</h1>';
+    
+
+
+</php>
+    
+    
